@@ -119,7 +119,7 @@ button {
   box-shadow: 0 6px 16px rgba(56,41,224,0.3);
 }
 
-.proceed:active {
+.proceed:hover {
   background-color: rgba(56,41,224,0.7);
 }
 
